@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>FileShare.Accessors</AssemblyName>
+    <RootNamespace>FileShare.Accessors</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Storage\Ali\" />
+    <Folder Include="Storage\Azure\" />
+    <Folder Include="Storage\Huawei\" />
+    <Folder Include="Storage\Tencent\" />
+  </ItemGroup>
+
+</Project>
