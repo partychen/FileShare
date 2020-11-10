@@ -1,8 +1,0 @@
-C:\Code\FastShare\src\Accessors\bin\Debug\netcoreapp3.1\FileShare.Accessors.deps.json
-C:\Code\FastShare\src\Accessors\bin\Debug\netcoreapp3.1\FileShare.Accessors.dll
-C:\Code\FastShare\src\Accessors\bin\Debug\netcoreapp3.1\FileShare.Accessors.pdb
-C:\Code\FastShare\src\Accessors\obj\Debug\netcoreapp3.1\Accessors.AssemblyInfoInputs.cache
-C:\Code\FastShare\src\Accessors\obj\Debug\netcoreapp3.1\Accessors.AssemblyInfo.cs
-C:\Code\FastShare\src\Accessors\obj\Debug\netcoreapp3.1\Accessors.csproj.CoreCompileInputs.cache
-C:\Code\FastShare\src\Accessors\obj\Debug\netcoreapp3.1\FileShare.Accessors.dll
-C:\Code\FastShare\src\Accessors\obj\Debug\netcoreapp3.1\FileShare.Accessors.pdb
